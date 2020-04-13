@@ -21,3 +21,7 @@ I then segmented my data (SegmentForProcrustesUp.m, SegmentForProcrustesDown.m, 
 I then conducted a PCA (principal component analysis) on SPSS and sorted my data using my script weightedFactor.m and AdjWeightedFactor.m (the first one applying the weights extracted from PCA of original filtered data, and the second applying weights of rectified data). Two aforementioned scripts allowed for the creation of factor scores from the components extracted from the PCA, so that I can run  new analyses (ANOVAs) on the factor scores. 
 
 Please see the presentation (pdf file) I have attached for all the results compiled together. I am still interpreting the results! :) 
+
+____________________________________________________________________________________________________________________
+
+If you want to try out my scripts, I have uploaded one example data set. All you need to do is change the participant path from all the participant numbers to '2'. I have uploaded data for participant 2 only.
