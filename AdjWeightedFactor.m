@@ -56,7 +56,7 @@ end
 % Then I sum up the values = the factor, and add the factors to a list
 % of all the participant factors
 
-subNum = 35;
+subNum = 35; % please change this according to the number of participants you have
 
 ptcpFactorOne = [];
 ptcpFactorTwo = [];
